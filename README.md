@@ -67,7 +67,7 @@ To use the project, follow these steps:
 
 Praveen Raj Balasubramanian - [praveenrajkct@gmail.com ](mailto:praveenrajkct@gmail.com)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Praveen-Raj-B/VOLVO)
+Project Link: [https://github.com/Praveen-Raj-B/VOLVO](https://github.com/Praveen-Raj-B/VOLVO)
 
 
 ## License
