@@ -1,0 +1,9 @@
+[2024-10-09 11:37:59,677] [TC2_Order_BestRated_MensTShirt.log] [INFO] Initializing Logger
+[2024-10-09 11:38:56,844] [TC2_Order_BestRated_MensTShirt.log] [INFO] TC2 : STRATED : Order Best Rated Mens T-Shirt
+[2024-10-09 11:38:56,845] [TC2_Order_BestRated_MensTShirt.log] [INFO] URL : https://www.flipkart.com/
+[2024-10-09 11:39:01,568] [TC2_Order_BestRated_MensTShirt.log] [INFO] Current URL is https://www.flipkart.com/
+[2024-10-09 11:39:03,165] [TC2_Order_BestRated_MensTShirt.log] [INFO] Selected Top Offers
+[2024-10-09 11:39:06,343] [TC2_Order_BestRated_MensTShirt.log] [INFO] Selected Casual Shirt
+[2024-10-09 11:39:08,654] [TC2_Order_BestRated_MensTShirt.log] [INFO] Added To Cart
+[2024-10-09 11:39:11,238] [TC2_Order_BestRated_MensTShirt.log] [INFO] Placed Order
+[2024-10-09 11:39:11,238] [TC2_Order_BestRated_MensTShirt.log] [INFO] TC2 : PASSED : Order Best Rated Mens T-Shirt

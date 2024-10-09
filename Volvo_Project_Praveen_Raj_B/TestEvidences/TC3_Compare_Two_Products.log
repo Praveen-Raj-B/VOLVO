@@ -1,0 +1,11 @@
+[2024-10-09 11:37:59,700] [TC3_Compare_Two_Products.log] [INFO] Initializing Logger
+[2024-10-09 11:39:24,108] [TC3_Compare_Two_Products.log] [INFO] TC3 : STRATED : Compare Two Products
+[2024-10-09 11:39:24,108] [TC3_Compare_Two_Products.log] [INFO] URL : https://www.flipkart.com/
+[2024-10-09 11:39:24,108] [TC3_Compare_Two_Products.log] [INFO] Product A : OnePlus 12
+[2024-10-09 11:39:24,108] [TC3_Compare_Two_Products.log] [INFO] Product B : Samsung Galaxy S21
+[2024-10-09 11:39:28,356] [TC3_Compare_Two_Products.log] [INFO] Current URL is https://www.flipkart.com/
+[2024-10-09 11:39:31,840] [TC3_Compare_Two_Products.log] [INFO] Searched Product A : OnePlus 12
+[2024-10-09 11:39:31,986] [TC3_Compare_Two_Products.log] [INFO] Product A added to compare
+[2024-10-09 11:39:33,857] [TC3_Compare_Two_Products.log] [INFO] Product B added to compare
+[2024-10-09 11:39:33,921] [TC3_Compare_Two_Products.log] [INFO] Clicked on Compare Button
+[2024-10-09 11:39:35,107] [TC3_Compare_Two_Products.log] [INFO] TC3 : PASSED : Compare Two Products

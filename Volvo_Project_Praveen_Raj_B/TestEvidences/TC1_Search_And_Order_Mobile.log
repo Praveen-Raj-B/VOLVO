@@ -1,0 +1,10 @@
+[2024-10-09 11:37:59,647] [TC1_Search_And_Order_Mobile.log] [INFO] Initializing Logger
+[2024-10-09 11:38:06,778] [TC1_Search_And_Order_Mobile.log] [INFO] TC1 : STRATED : Search And Order Mobile
+[2024-10-09 11:38:06,778] [TC1_Search_And_Order_Mobile.log] [INFO] URL : https://www.flipkart.com/
+[2024-10-09 11:38:06,778] [TC1_Search_And_Order_Mobile.log] [INFO] Mobile Model : Apple iPhone 16 (White, 128 GB)
+[2024-10-09 11:38:11,119] [TC1_Search_And_Order_Mobile.log] [INFO] Current URL is https://www.flipkart.com/
+[2024-10-09 11:38:14,666] [TC1_Search_And_Order_Mobile.log] [INFO] Searched Mobile Model : Apple iPhone 16 (White, 128 GB)
+[2024-10-09 11:38:14,951] [TC1_Search_And_Order_Mobile.log] [INFO] Selected Mobile Model : Apple iPhone 16 (White, 128 GB)
+[2024-10-09 11:38:17,755] [TC1_Search_And_Order_Mobile.log] [INFO] Added To Cart
+[2024-10-09 11:38:19,813] [TC1_Search_And_Order_Mobile.log] [INFO] Placed Order
+[2024-10-09 11:38:19,813] [TC1_Search_And_Order_Mobile.log] [INFO] TC1 : PASSED : Search And Order Mobile
